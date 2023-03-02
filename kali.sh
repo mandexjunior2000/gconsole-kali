@@ -1,6 +1,6 @@
 echo -e "$123\n$123\n" | sudo passwd
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-wget -O ng.sh https://raw.githubusercontent.com/efxtv/Free-RDP-Linux-Windows/main/rdp/ng.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/mandexjunior2000/gconsole-kali/main/ng.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 clear
@@ -32,8 +32,8 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo "===================================="
 echo "===================================="
 echo "Do not press ctrl + c "
-echo "Keep supporting EFX Tv thank you"
-echo "Hold on, it can take time."
+echo "Keep supporting MENDEX JUNIOR thank you"
+echo "Hold on, it can take time. Upto 4-5min"
 echo "===================================="
 echo "===================================="
 docker run --rm -p 3388:3389 danielguerra/ubuntu-xrdp:kali > /dev/null 2>&1

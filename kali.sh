@@ -6,7 +6,7 @@ chmod +x ng.sh
 clear
 echo "======================="
 echo choose ngrok region
-echo "======================="
+echo "===========MENDEX Jr.============"
 echo "us - United States (Ohio)"
 echo "eu - Europe (Frankfurt)"
 echo "ap - Asia/Pacific (Singapore)"
